@@ -12,3 +12,4 @@
 ### Ссылки на документацию
 * [Техническое задание.docx](https://github.com/AlexandrCSF/bookTalk/tree/main/Documentation/Technical_specification.docx)
 * [Техническое задание.pdf](https://github.com/AlexandrCSF/bookTalk/tree/main/Documentation/Technical_specification.pdf)
+* [UML Диаграммы](https://miro.com/app/board/uXjVNqVhdRU=/)
