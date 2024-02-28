@@ -3,9 +3,9 @@
 ### Приложение для организации деательности книжных клубов
 
 ### Участники
-* [Ларина Мария](https://github.com/marylarina)
-* [Федосеев Евгений](https://github.com/zhekkkk)
-* [Котов Александр](https://github.com/marylarina)
+* [Ларина Мария](https://github.com/marylarina) - Project Manager
+* [Федосеев Евгений](https://github.com/zhekkkk) - Бизнес аналитик
+* [Котов Александр](https://github.com/marylarina) - Системный аналитик
 ### Ссылки на сервисы
 * [Trello](https://trello.com/b/12DmkiM4/%D1%82%D0%BF-booktalk)
 * [Figma](https://www.figma.com/file/p5TR50S8o9GIPMiErJY9nv/TP_6_1-team-library?node-id=0-1&t=lYx9O2UIhUh7FBbd-0)
