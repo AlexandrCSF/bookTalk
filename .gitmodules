@@ -1,0 +1,3 @@
+[submodule "bookTalk_FE"]
+	path = bookTalk_FE
+	url = https://github.com/AlexandrCSF/bookTalk_FE
