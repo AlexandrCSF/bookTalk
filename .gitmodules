@@ -4,3 +4,6 @@
 [submodule "bookTalk_BE"]
 	path = bookTalk_BE
 	url = https://github.com/AlexandrCSF/bookTalk_BE
+[submodule "bookTalk_Docs"]
+	path = bookTalk_Docs
+	url = https://github.com/AlexandrCSF/bookTalk_Docs
