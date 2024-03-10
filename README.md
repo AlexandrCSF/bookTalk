@@ -13,4 +13,4 @@
 ### Ссылки на документацию
 * [UML Диаграммы (Miro)](https://miro.com/app/board/uXjVNqVhdRU=/)
 ### Ссылки на видео
-[Видео с презентацией ТЗ](https://youtu.be/_u3xLzZcN6k)
+* [Видео с презентацией ТЗ](https://youtu.be/_u3xLzZcN6k)
