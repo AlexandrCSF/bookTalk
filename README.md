@@ -12,7 +12,7 @@
 * [Пользовательские сценарии (FigJam)](https://www.figma.com/file/NeAYUjEDRsSMAPya95nUgW/user-flows?type=whiteboard&node-id=0%3A1&t=mE9dnxibDY9lPRCa-1)
 ### Ссылки на документацию
 * [UML Диаграммы (Miro)](https://miro.com/app/board/uXjVNqVhdRU=/)
-* [Видео с презентацией ТЗ.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pdf)
-* [Видео с презентацией ТЗ.pptx](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pptx)
+* [Презентация ТЗ.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pdf)
+* [Презентация ТЗ.pptx](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pptx)
 ### Ссылки на видео
 * [Видео с презентацией ТЗ](https://youtu.be/_u3xLzZcN6k)
