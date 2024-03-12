@@ -13,6 +13,7 @@
 ### Ссылки на документацию
 * [Техническое задание.docx](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Техническое%20задание.docx)
 * [Техническое задание.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Техническое%20задание.pdf)
+* [Оформительские задачи](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Оформительские%20задачи.pdf)
 * [UML Диаграммы (Miro)](https://miro.com/app/board/uXjVNqVhdRU=/)
 * [Презентация ТЗ.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pdf)
 * [Презентация ТЗ.pptx](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pptx)
