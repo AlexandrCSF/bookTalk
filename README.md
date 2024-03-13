@@ -21,4 +21,4 @@
 * [Презентация ТЗ.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pdf)
 * [Презентация ТЗ.pptx](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pptx)
 ### Ссылки на видео
-* [Видео с презентацией ТЗ](https://youtu.be/_u3xLzZcN6k)
+* [Видео с презентацией ТЗ](https://youtu.be/xUiMkemiVdQ)
