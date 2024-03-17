@@ -18,7 +18,6 @@
 * [Оформительские задачи](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Оформительские%20задачи.pdf)
 * [Сопроводительное письмо](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Сопроводительное%20письмо.pdf)
 * [Сопроводительное письмо(копия)](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Сопроводительное%20письмо%20—%20копия.pdf)
-* [Презентация ТЗ.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pdf)
-* [Презентация ТЗ.pptx](https://github.com/AlexandrCSF/bookTalk_Docs/blob/main/Презентация%20ТЗ.pptx)
+* [Презентация ТЗ.pdf](https://github.com/AlexandrCSF/bookTalk_Docs/blob/78b71632ddf9f5dcde47f455d60b702d57544af1/Prezentatsia_TZ.pdf)
 ### Ссылки на видео
 * [Видео с презентацией ТЗ](https://youtu.be/pagBM9wUlFk)
